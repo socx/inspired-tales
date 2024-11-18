@@ -1,1 +1,0 @@
-https://www.hematology.org/education/patients/bleeding-disorders
