@@ -118,6 +118,11 @@ export default function SupportSidebar() {
                                 Outline
                               </SidebarLink>
                             </li>
+                            <li className="mt-3">
+                              <SidebarLink href="/demoniac/demoniacs-descendant-story">
+                                Story
+                              </SidebarLink>
+                            </li>
                           </ul>
                         </>
                       )
