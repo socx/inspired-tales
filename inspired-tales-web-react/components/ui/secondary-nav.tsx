@@ -34,7 +34,7 @@ export default function SecondaryNav() {
   
   // select targets
   useEffect(() => {
-    const targets = document.querySelectorAll('h2') as NodeListOf<HTMLElement>
+    const targets = document.querySelectorAll('h4') as NodeListOf<HTMLElement>
     setTargets(Array.from(targets))
   }, [])  
 
